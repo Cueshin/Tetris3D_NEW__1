@@ -29,4 +29,9 @@ public class GameManager : MonoBehaviour
 	{
 		SceneManager.LoadScene("PlayScene");
 	}
+    public void MoveRight()
+    {
+        //;
+    }
+
 }
